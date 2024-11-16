@@ -1,3 +1,4 @@
+
 Checklist for MacOS Sequoia
 Checklist for MacOS Big Sur [(https://i12bretro.github.io/tutorials/0551.html)](https://i12bretro.github.io/tutorials/0551.html)
 
