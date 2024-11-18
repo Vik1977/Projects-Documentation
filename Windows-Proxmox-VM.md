@@ -1,16 +1,23 @@
 ### Add iso files to proxmox 
+
 ## Crate VM, in general tab put:
 ### VM ID = what you want; VM NAME = what you want
+
 ## In OS tab put:
 ### STORAGE = where your windows ISO is stored; ISO IMAGE = the windows 10,11,server ISO; TYPE = Microsoft Windows
+
 ## In SYSTEM tab:
 ### GRAPHICS CARD = default; QUEMU AGENT = ✔️; SCSI CONTROLLER = VirtIO Controller
+
 ## In HARD DISK tab:
 ### BUS DEVICE = SCSI; DISK SIZE = what you want, recommended 64; CACHE = write back; DISCARD = ✔️
+
 ## In CPU tab:
 ### CORES = optimal is 4; TYPE = KVM64
+
 ## In MEMORY tab:
 ### MEMORY = optimal is 4096 (4Gb) 
+
 ## In NETWORK tab:
 ### MODEL = Intel E 1000
 ### Then check and crate VM
