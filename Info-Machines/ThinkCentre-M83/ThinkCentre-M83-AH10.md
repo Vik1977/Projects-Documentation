@@ -4,3 +4,4 @@
 ### it's the ram or what 
 ### The PCIE cards must be the reduced version, chassy doesn't support full size
 ### 2 Cores and 2 threads per core so 4 CPU's
+### Using it whit proxmox, mainly for VM's
