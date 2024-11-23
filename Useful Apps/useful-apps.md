@@ -9,3 +9,5 @@
 ### Parabolic: org.nickvision.tubeconverter
 ### Gear Lever: it.mijorus.gearlever
 ### Keypunch: dev.bragefuglseth.Keypunch
+### Alpaca: com.jeffser.Alpaca
+### Cartriges: page.kramo.Cartridges
