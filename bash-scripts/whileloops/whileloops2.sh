@@ -1,11 +1,10 @@
 #!/bin/bash
 
-myvar=1
-
 while [ -f ~/testfile ]
 do 
-	echo  "the test file exists"
+	echo  "As of $(date), the test file exists"
+	sleep 5
 done
 
-echo "the file no longer exists"
+echo "As of $(date), the file no longer exists"
 
