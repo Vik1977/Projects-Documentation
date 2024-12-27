@@ -24,8 +24,10 @@
 
 ### $ exit
 ### Using Promox webgui, remove all network interfaces connected to the CT
+![remove](https://github.com/user-attachments/assets/f38cda9b-0a54-4203-9eb0-448eac1876ed)
 
 ### Again using the Promox webgui, backup the CT
+![backup](https://github.com/user-attachments/assets/a97c6abc-d521-4089-a9bd-62830ede947e)
 
 ### Once backup is complete, return to the Proxmox host command line and navigate to where the backup is stored.
 ### Note, on my host, I used the default locations created during Proxmox install:
