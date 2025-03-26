@@ -111,6 +111,18 @@
             <mxPoint x="670" y="920" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="tlFYSQVCx428-hlBEmAo-40" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Desktop&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1015.6" width="94.4" height="32.4" as="geometry" />
+        </mxCell>
+        <mxCell id="tlFYSQVCx428-hlBEmAo-42" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Steam Deck&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="338" y="1025.2" width="94.4" height="32.4" as="geometry" />
+        </mxCell>
+        <mxCell id="tlFYSQVCx428-hlBEmAo-43" value="&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Proxmox router&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="482.8" y="1025.2" width="124.4" height="32.4" as="geometry" />
+        </mxCell>
+        <mxCell id="tlFYSQVCx428-hlBEmAo-45" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;Truenas scale server&lt;/span&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#FFFFFF;labelBackgroundColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="607.2" y="1025.2" width="150" height="32.4" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
