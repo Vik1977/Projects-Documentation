@@ -1,50 +1,86 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36" version="28.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:140.0) Gecko/20100101 Firefox/140.0" version="28.0.3">
   <diagram name="Page-1" id="tdtSQiz9N2bmCiRRPNKY">
-    <mxGraphModel dx="940" dy="2855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="785" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="SANiuj6yqniQUxRsf-3r-12" value="Netgear poe switch&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;container=1;" parent="1" vertex="1">
-          <mxGeometry x="450" y="190" width="260" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="SANiuj6yqniQUxRsf-3r-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;entryX=0.882;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="SANiuj6yqniQUxRsf-3r-1" target="SANiuj6yqniQUxRsf-3r-4" edge="1">
+        <mxCell id="SANiuj6yqniQUxRsf-3r-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;labelBackgroundColor=none;fontColor=default;entryX=0.963;entryY=-0.06;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" parent="1" source="SANiuj6yqniQUxRsf-3r-1" target="YmoQYICdlKGwqe9Cftw6-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="330" as="targetPoint" />
+            <mxPoint x="410" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="400" y="250" />
+              <mxPoint x="410" y="370" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="SANiuj6yqniQUxRsf-3r-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" parent="1" source="SANiuj6yqniQUxRsf-3r-1" target="SANiuj6yqniQUxRsf-3r-5" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="330" as="targetPoint" />
+            <mxPoint x="520" y="450" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="430" y="270" />
+              <mxPoint x="440" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="SANiuj6yqniQUxRsf-3r-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;" parent="1" source="SANiuj6yqniQUxRsf-3r-1" edge="1">
+        <mxCell id="SANiuj6yqniQUxRsf-3r-11" style="edgeStyle=none;curved=0;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;startArrow=classic;startFill=1;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=-0.014;exitY=0.629;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="SANiuj6yqniQUxRsf-3r-1" edge="1" target="YmoQYICdlKGwqe9Cftw6-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="130" as="targetPoint" />
+            <mxPoint x="210" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="SANiuj6yqniQUxRsf-3r-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.aPFjR6At8o8omfT5TrDCRAHaFI%3Fr%3D0%26pid%3DApi&amp;f=1&amp;ipt=715fd270fb99907a689ba58693e35bdf04d1168896041682076348a443fb44d2&amp;ipo=images;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="339.41999999999996" y="80" width="101.16" height="70" as="geometry" />
+          <mxGeometry x="464.99999999999994" y="210" width="101.16" height="70" as="geometry" />
         </mxCell>
         <mxCell id="SANiuj6yqniQUxRsf-3r-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.aAzhANtOcHnUEbeTVPV9igHaHa%3Fpid%3DApi&amp;f=1&amp;ipt=b93f05d807bcc99165c8a8ffd4101c8c5c0ffe0c04510ae621e8b513f49023a3&amp;ipo=images;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="310.58" y="-110" width="130" height="130" as="geometry" />
+          <mxGeometry x="335" y="30" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="SANiuj6yqniQUxRsf-3r-4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.YU7gJHhP_OrFxeKvRq0GzAHaHa%3Fpid%3DApi&amp;f=1&amp;ipt=c13e4b56da9de06e41e7bbe6214fc084d430b41b3175259e573976b5661f6fb1&amp;ipo=images;labelBackgroundColor=none;direction=east;" parent="1" vertex="1">
-          <mxGeometry x="229.99999999999994" y="320" width="170" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="SANiuj6yqniQUxRsf-3r-5" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.Ioolz_ilOq-k6RdHg9is3wHaHa%3Fpid%3DApi&amp;f=1&amp;ipt=feccfbfd46de260a5b895e3bc9bd294f3cc3a943c24e567b64d2dd8463680dde&amp;ipo=images;labelBackgroundColor=none;container=1;" parent="1" vertex="1">
-          <mxGeometry x="520" y="240" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="SANiuj6yqniQUxRsf-3r-6" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.jUaNR3iD0v-mI4DtV0v4RQHaHa%3Fpid%3DApi&amp;f=1&amp;ipt=a12e3e316f02f4c55fd028c770e2fe8ba21ef6f72f49891197df2e16e0440e22&amp;ipo=images;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="70" y="90" width="120" height="120" as="geometry" />
+        <mxCell id="YmoQYICdlKGwqe9Cftw6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;curved=1;" edge="1" parent="1" source="SANiuj6yqniQUxRsf-3r-4" target="SANiuj6yqniQUxRsf-3r-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SANiuj6yqniQUxRsf-3r-14" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.sKAPomP3P8jvQpxJPNl42AHaHa%3Fr%3D0%26pid%3DApi&amp;f=1&amp;ipt=b268c9b61fee0ddb63527ff0731fd5b6502a84110a4c2555032486df914da241&amp;ipo=images;" parent="1" vertex="1">
-          <mxGeometry x="50" y="560" width="170" height="170" as="geometry" />
+          <mxGeometry x="60" y="580" width="90" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="YmoQYICdlKGwqe9Cftw6-2" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="570" y="320" width="240" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="SANiuj6yqniQUxRsf-3r-5" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.Ioolz_ilOq-k6RdHg9is3wHaHa%3Fpid%3DApi&amp;f=1&amp;ipt=feccfbfd46de260a5b895e3bc9bd294f3cc3a943c24e567b64d2dd8463680dde&amp;ipo=images;labelBackgroundColor=none;container=1;" parent="YmoQYICdlKGwqe9Cftw6-2" vertex="1">
+          <mxGeometry x="50" y="30" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="SANiuj6yqniQUxRsf-3r-12" value="Netgear poe switch&amp;nbsp;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;container=1;" parent="YmoQYICdlKGwqe9Cftw6-2" vertex="1">
+          <mxGeometry width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmoQYICdlKGwqe9Cftw6-4" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="180" y="390" width="200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="SANiuj6yqniQUxRsf-3r-4" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse2.mm.bing.net%2Fth%2Fid%2FOIP.YU7gJHhP_OrFxeKvRq0GzAHaHa%3Fpid%3DApi&amp;f=1&amp;ipt=c13e4b56da9de06e41e7bbe6214fc084d430b41b3175259e573976b5661f6fb1&amp;ipo=images;labelBackgroundColor=none;direction=east;" parent="YmoQYICdlKGwqe9Cftw6-4" vertex="1">
+          <mxGeometry x="10" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="YmoQYICdlKGwqe9Cftw6-5" value="VPN tp-link router" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;container=1;" vertex="1" parent="YmoQYICdlKGwqe9Cftw6-4">
+          <mxGeometry x="-40" width="240" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmoQYICdlKGwqe9Cftw6-7" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="220" width="290" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="SANiuj6yqniQUxRsf-3r-6" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.jUaNR3iD0v-mI4DtV0v4RQHaHa%3Fpid%3DApi&amp;f=1&amp;ipt=a12e3e316f02f4c55fd028c770e2fe8ba21ef6f72f49891197df2e16e0440e22&amp;ipo=images;labelBackgroundColor=none;" parent="YmoQYICdlKGwqe9Cftw6-7" vertex="1">
+          <mxGeometry x="85" y="10" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="YmoQYICdlKGwqe9Cftw6-6" value="Tenda unmenaged switch" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=25;container=1;" vertex="1" parent="YmoQYICdlKGwqe9Cftw6-7">
+          <mxGeometry width="290" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YmoQYICdlKGwqe9Cftw6-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;entryX=0;entryY=1;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="YmoQYICdlKGwqe9Cftw6-9" target="SANiuj6yqniQUxRsf-3r-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YmoQYICdlKGwqe9Cftw6-9" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.cZv_VM4N72u84ABHQCT_tgHaI4%3Fpid%3DApi&amp;f=1&amp;ipt=99a303cd57d8a775e59be7a505cf5f22814dc85551564de0aa512975e85ad70d&amp;ipo=images;" vertex="1" parent="1">
+          <mxGeometry x="425" y="530" width="108.5" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="YmoQYICdlKGwqe9Cftw6-11" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.UqG-bodAKy1G4w3FkKTp3QHaHa%3Fpid%3DApi&amp;f=1&amp;ipt=7ed4e6f4efec6fe02c0ecf8bf33ec4e66d23087a027374336b46e7fda8e138cd&amp;ipo=images;" vertex="1" parent="1">
+          <mxGeometry x="506" y="710" width="114" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="YmoQYICdlKGwqe9Cftw6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;curved=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="SANiuj6yqniQUxRsf-3r-5" target="YmoQYICdlKGwqe9Cftw6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YmoQYICdlKGwqe9Cftw6-14" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;image=https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.972Hudfa1S8zUFprCNJLLgHaLf%3Fpid%3DApi&amp;f=1&amp;ipt=a63cfb55af4c2c1267c348eae146b6667bc359b65f4fde6559f0170e7a8e024c&amp;ipo=images;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1260" width="128.85" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="YmoQYICdlKGwqe9Cftw6-15" value="Stalled devices" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="70" y="1160" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
